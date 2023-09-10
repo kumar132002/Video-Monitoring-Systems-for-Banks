@@ -16,4 +16,4 @@ Tampering of cameras is found using BackgroundSeperatorMOG2() of CV2 library
 Count of People identifies the people as object and tracks the coordinates to be moven front or back,for POC the video in mp4 format is linked for further use can be linked with Live feed.
 
 
-Pull the repository ,Install the dependencies and run the app.py for running the Video Monitoring System for Banks.
+Pull the repository ,Install the dependencies by using requirements.txt and run the app.py for running the Video Monitoring System for Banks.
