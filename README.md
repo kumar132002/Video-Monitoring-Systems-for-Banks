@@ -7,7 +7,7 @@ The final basic UI developed using Tkinter is as follows
 
 When each of the button is clicked the corresponding detection is shown.
 
-The feedback analysis is based on the Facial Emotion Recognition for the 3 classes happy,sad and neutral.
+The feedback analysis is based on the Facial Emotion Recognition for the 3 classes namely happy,sad and neutral.
 
 
 Tampering of cameras is found using BackgroundSeperatorMOG2() of CV2 library
